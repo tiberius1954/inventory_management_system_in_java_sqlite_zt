@@ -1,0 +1,1 @@
+This is an inventory management system that uses a Java frontend, and sqlite for a database. Product inventory, customer invoices,supplier bills and banking, product category are the main features of this project that are almost readymade.
